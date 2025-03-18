@@ -7,6 +7,7 @@ public class MarioPizza {
         Scanner scanner = new Scanner(System.in);
         for (MarioMenu Pizzaer : MarioMenu.values()){
             System.out.printf("Nr %d %S %f.2 Kr, Pizzaer.getBrugerValg(), Pizzaer.name(), Pizzaer.getPris()");
+            System.out.println("hold kæft");
             System.out.println("Nr " + Pizzaer.getBrugerValg() + " " + Pizzaer.name() + " " + Pizzaer.getPris() + " Kr");
     }
 

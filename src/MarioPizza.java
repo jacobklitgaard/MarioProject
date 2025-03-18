@@ -1,5 +1,6 @@
 import javax.naming.ldap.ManageReferralControl;
 import java.util.Scanner;
+//HEJ VENNER <3
 
 public class MarioPizza {
     public static void main(String[] args) {
